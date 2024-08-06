@@ -1,6 +1,7 @@
 # SwayzCryptor---Obfuscator_Mutex_Start-up
 
-(https://github.com/Swayz2k/SwayzCryptor---Obfuscator_Mutex_Start-up-/blob/main/mkuUuJh.gif)
+<br><br>
+![antiscan](https://github.com/Swayz2k/SwayzCryptor---Obfuscator_Mutex_Start-up-/blob/main/mkuUuJh.gif)
 
 1. DESCRIPTION
 
