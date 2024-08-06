@@ -13,7 +13,6 @@ The tool is designed to obfuscate software in a way that standard antivirus prog
 
 2. HOW TO USE
 
-==================================
 0. Disable antivirus if needed [Mostly it's not needed].
 1. Install or Directly Run the Program.
 2. If necessary, use given crack or serial to register this software.
