@@ -3,6 +3,7 @@
 1. DESCRIPTION
 
 ==================================
+
 SwayzCryptor is a encrypter (or 'cypher') that allows users to encrypt the source code of their program.
 
 This tool works by encrypting the source code of an executalbe, making it difficult for security software to detect the original code. SwayzCryptor assigns hidden values to each part of the code, thus effectively masking it from standard security scans.
