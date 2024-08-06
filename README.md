@@ -1,4 +1,4 @@
-# SwayzCryptor---Obfuscator_Mutex_Start-up
+# ⚙️ SwayzCryptor---Obfuscator_Mutex_Start-up
 
 ![antiscan](https://github.com/Swayz2k/SwayzCryptor---Obfuscator_Mutex_Start-up-/blob/main/mkuUuJh.gif)
 
