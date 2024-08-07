@@ -7,7 +7,7 @@
 
 1. DESCRIPTION
 
-====================================================================
+=====================================================================================
 
 SwayzCryptor is a encrypter (or 'cypher') that allows users to encrypt the source code of their program.
 
