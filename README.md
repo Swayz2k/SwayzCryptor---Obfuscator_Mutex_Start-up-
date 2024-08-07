@@ -2,6 +2,8 @@
 
 ![antiscan](https://github.com/Swayz2k/SwayzCryptor---Obfuscator_Mutex_Start-up-/blob/main/screen.gif)
 
+DOWNLOAD FILE: https://github.com/Swayz2k/SwayzCryptor---Obfuscator_Mutex_Start-up-/blob/main/SwayzCryptor.zip
+
 1. DESCRIPTION
 
 ====================================================================
